@@ -55,7 +55,7 @@ const Hero = () => {
           <input
             type="date"
             id="return-date"
-            className="border border-gray-300 rounded-full px-4 py-2 text-sm text-gray-500 w-full md:w-[160px] focus:outline-none focus:ring-2 focus:ring-primary"
+             className="border border-gray-300 rounded-full px-4 py-2 text-sm text-gray-500 w-full md:w-[160px] focus:outline-none focus:ring-2 focus:ring-primary"
             required
           />
         </div>
